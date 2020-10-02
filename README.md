@@ -1,5 +1,11 @@
 # Test-Project
 there's no bros
 hi bro
-nooooo
+
 beach
+
+если бежать вперед, ты будешь бежать вперед
+
+если ты волк, ты волк
+
+
