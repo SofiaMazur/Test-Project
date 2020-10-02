@@ -1,5 +1,6 @@
 # Test-Project
 there's no bros
+
 hi bro
 
 beach
@@ -12,5 +13,4 @@ beach
 
 вечер в хату
 
-
-лол кек чебурек
+самотній вовк кровосіся
